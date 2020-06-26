@@ -1,3 +1,4 @@
+###### added support for 1280x720 MJPEG camera stream
 =======
 
 #### A ROS Driver for V4L USB Cameras
